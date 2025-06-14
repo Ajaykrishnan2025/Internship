@@ -1,5 +1,6 @@
 # Internship
 I complete my internship project repository
 
-Step-1 
-starting learn HTML & CSS 
+starting learn HTML, css, js
+
+will study
